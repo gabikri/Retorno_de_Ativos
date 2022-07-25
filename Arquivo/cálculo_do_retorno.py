@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """Cálculo do retorno
 
-O retorno de uma carteira pode ser obtido a partir dos seus retornos individuais. Esses retornos são multiplicados pelas suas respectivas probabilidades de
-acontecerem e todos os valores somados.
+O retorno de uma carteira pode ser obtido a partir dos seus retornos individuais. Esses retornos são multiplicados pelas suas respectivas probabilidades e todos os valores somados.
 
 "
 """
